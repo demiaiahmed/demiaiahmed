@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @demiaiahmed
+- 👋 Hi, I’m Ahmed
 - 👀 I’m a Backend Golang Developer
 - 🌱 I’m currently learning DeFI and Blockchain
 - 💞️ I’m looking to collaborate on Projects
