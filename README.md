@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demiaiahmed
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Svelte and Tailwinds
+- 👀 I’m a Backend Golang Developer
+- 🌱 I’m currently learning DeFI and Blockchain
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me twitter @demiaiahmed or demiaiahmed@gmail.com
 
