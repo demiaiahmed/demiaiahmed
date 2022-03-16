@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed
-- 👀 I’m a Backend Golang Developer
+- 👀 I’m a Backend Developer using Go
 - 🌱 I’m currently learning DeFI and Blockchain
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me twitter @demiaiahmed or demiaiahmed@gmail.com
